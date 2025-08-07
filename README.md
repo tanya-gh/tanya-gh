@@ -50,7 +50,6 @@ More dashboards dropping soon.
   </a>
 </div>
 
----
 
 <!-- 
 yup, first project — just the beginning.  
